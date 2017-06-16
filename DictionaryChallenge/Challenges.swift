@@ -57,7 +57,7 @@ class Challenges {
         return allStatesAndCap
     }
     
-    func createBand() -> [String: String]] {
+    func createBand() -> [String: [String]] {
         let nirvana = ["Kurt Cobain", "Krist Novoselic", "Dave Grohl"]
         let beatles = ["John Lennon", "George Harrison", "Paul McCartney", "Ringo Starr"]
         let breeders = ["Kim Deal", "Kelley Deal", "Josephine Wiggs", "Jim Macpherson"]
